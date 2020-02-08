@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [
+    "Chalo",
+    "cholo"
+  ],
+  "workbench.colorTheme": "Sunburst",
+  "[javascript]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.enable": true,
+  "eslint.run": "onSave",
+  "eslint.alwaysShowStatus": true,
+
+}
