@@ -1,4 +1,4 @@
-I have deployed the project is deployed in [here at Google Cloud Platform](_https://cholo-app-exercise.appspot.com/_)
+I have deployed the project is deployed in [here at Google Cloud Platform](https://cholo-app-exercise.appspot.com/_)
 
 In this deployment, the MongoDB database is running in cloud MongoDB Atlas.
 
