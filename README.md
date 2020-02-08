@@ -6,6 +6,10 @@ The rest of the backend, I have done in Node/Express. And in the front-end along
 
 ### To launch this project in the local machine.
 
+First of all update the .env file in both the project root and ./client folder
+
+The project root's .env file contains variable for 'MONGO_DB' and ./client folder's env variable contains var for 'REACT_APP_GOOGLE_MAP_API'
+
 run `npm install` in both the server and client directory seperately, which in this project is the root directory (`./`) and also `./client` directories respectively.
 
 The mongodb of this project is hosted in cloud MongoDB atlas. The credentials are in .env file at the root of project.
