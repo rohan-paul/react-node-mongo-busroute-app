@@ -41,3 +41,6 @@ export const pipe = errorsOn => {
     return undefined
   }
 }
+
+/* Todo Explanation of the pipe() function
+ */
