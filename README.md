@@ -1,4 +1,10 @@
-I have deployed the project is deployed in [here at Google Cloud Platform](https://cholo-app-exercise.appspot.com/)
+### This was a Full-Stack 48 hour Take Home Exercise - that I did in early 2020.
+
+#### Backend is in Node and MongoDB and fronend is in React. And I have deployed the project is deployed in [here at Google Cloud Platform](https://cholo-app-exercise.appspot.com/)
+
+##### However please note my Google Cloud's Yearly free credit is over now, so the live site will not run.
+
+![](Image.png)
 
 In this deployment, the MongoDB database is running in cloud MongoDB Atlas.
 
